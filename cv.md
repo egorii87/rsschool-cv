@@ -16,3 +16,12 @@ I am 22 years old, I work as a systems engineer. When I was at university, I bec
 * CSS
 * Javascript basics
 * C/C++ basics
+
+# Education
+Belarusian State University of Informatics and Radioelectronics 
+* Faculty of Computer Systems and Networks
+    - Speciality: Electronic Computing Machines
+
+# Languages
+* **Russian** - native speaker.
+* **English** - A2 (B1 in process…)
